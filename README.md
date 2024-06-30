@@ -1,5 +1,10 @@
 <h1>Análise de Dados de Funcionários da IBM</h1>
 
+<h2>Objetivos</h2>
+<p>
+ O objetivo deste projeto é analisar os dados de funcionários da IBM para entender os fatores que contribuem para a rotatividade de pessoal. Através da exploração e análise dos dados demográficos, profissionais e salariais dos funcionários, busca-se identificar padrões e fatores 
+ críticos que levam à saída dos empregados da empresa, permitindo os insights e decisões estratégicas necessárias para lidar com essas situações.
+</p>
 <h2>Etapas do Projeto</h2>
 
 <h3>1. Limpeza da Base de Dados</h3>
